@@ -101,14 +101,10 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 ## 📊 GitHub Stats:
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; width: 100%;">
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <img style="width: 100%; max-width: fit-content;" src="https://github-readme-stats.vercel.app/api?username=SatyajeetKumarRao&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="" />
-    <img style="width: 100%; max-width: fit-content;" src="https://github-readme-streak-stats.herokuapp.com/?user=SatyajeetKumarRao&theme=dark&hide_border=false" alt="" />
-  </div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SatyajeetKumarRao&theme=dark&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
 
-  <img style="width: 100%; max-width: fit-content;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyajeetKumarRao&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="" />
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SatyajeetKumarRao&theme=dark&hide_border=true)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyajeetKumarRao&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <h2 align="left">⚡Activity Graph:</h2>
 
