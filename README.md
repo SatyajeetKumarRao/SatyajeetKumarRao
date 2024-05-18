@@ -45,7 +45,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 💬 Open for your suggestions
 
-- 📄 Download my <a href= "https://drive.google.com/file/d/1UM_98nioX3HiU-s8obtXpUy_kl89HXlE/view?usp=drive_link" target="_target">Resume</a>
+- 📄 Download my <a href= "https://drive.google.com/file/d/1UM_98nioX3HiU-s8obtXpUy_kl89HXlE/view?usp=drive_link" target="_blank">Resume</a>
 
 - 👨‍💻 Portfolio <a href="https://satyajeetkumarrao.github.io/" target="_blank"> Portfolio</a>
 
