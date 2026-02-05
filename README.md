@@ -109,9 +109,9 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <div align="center">
 
+<img src="https://i.ibb.co/N6Dpx8Nf/Screenshot-2026-02-01-at-10-48-54-AM.jpg" alt="Screenshot 2026 02 01 at 10 48 54 AM" border="0">
 <img src="https://i.ibb.co/Fb3GcvRX/Screenshot-2026-02-01-at-10-48-54-AM-1.jpg" alt="Screenshot 2026 02 01 at 10 48 54 AM (1)" border="0">
 <img src="https://i.ibb.co/mCHnwXcJ/Screenshot-2026-02-01-at-10-48-54-AM-2.jpg" alt="Screenshot 2026 02 01 at 10 48 54 AM (2)" border="0">
-<img src="https://i.ibb.co/N6Dpx8Nf/Screenshot-2026-02-01-at-10-48-54-AM.jpg" alt="Screenshot 2026 02 01 at 10 48 54 AM" border="0">
 
 </div>
 
