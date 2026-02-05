@@ -31,37 +31,6 @@ Here are some ideas to get you started:
 
 <h1 style="text-align:center;">Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-## 📊 GitHub Contribution Highlights
-
-<h2 align="center">📊 GitHub Contribution Carousel</h2>
-
-<div align="center">
-
-<a href="#slide3">⬅️ Prev</a> |
-<a href="#slide1">Next ➡️</a>
-
-<br/><br/>
-
-<img id="slide1" src="https://i.ibb.co/Fb3GcvRX/Screenshot-2026-02-01-at-10-48-54-AM-1.jpg" alt="Screenshot 2026 02 01 at 10 48 54 AM (1)" border="0" width="800"/>
-
-<br/><br/>
-
-<a href="#slide1">1</a> |
-<a href="#slide2">2</a> |
-<a href="#slide3">3</a>
-
-<br/><br/>
-
-<img id="slide2" src="https://i.ibb.co/mCHnwXcJ/Screenshot-2026-02-01-at-10-48-54-AM-2.jpg" alt="Screenshot 2026 02 01 at 10 48 54 AM (2)" border="0" width="800"/>
-
-<br/><br/>
-
-<img id="slide3" src="https://i.ibb.co/N6Dpx8Nf/Screenshot-2026-02-01-at-10-48-54-AM.jpg" alt="Screenshot 2026 02 01 at 10 48 54 AM" border="0" width="800"/>
-
-</div>
-
----
-
 Dynamic Full Stack Web Developer with 1200+ hours of coding experience. Proficient in MERN stack, adept at solo and collaborative project development. Skilled in problem-solving, communication, and adaptability. Eager to contribute technical expertise to innovative web solutions.
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting!
@@ -135,6 +104,16 @@ Connect with me on LinkedIn to learn more about my professional background and s
 ![](https://github-readme-stats.vercel.app/api?username=SatyajeetKumarRao&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SatyajeetKumarRao&theme=dark&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyajeetKumarRao&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 📊 GitHub Contribution Highlights From Procuzy
+
+<div align="center">
+
+<img src="https://i.ibb.co/Fb3GcvRX/Screenshot-2026-02-01-at-10-48-54-AM-1.jpg" alt="Screenshot 2026 02 01 at 10 48 54 AM (1)" border="0">
+<img src="https://i.ibb.co/mCHnwXcJ/Screenshot-2026-02-01-at-10-48-54-AM-2.jpg" alt="Screenshot 2026 02 01 at 10 48 54 AM (2)" border="0">
+<img src="https://i.ibb.co/N6Dpx8Nf/Screenshot-2026-02-01-at-10-48-54-AM.jpg" alt="Screenshot 2026 02 01 at 10 48 54 AM" border="0">
+
+</div>
 
 <h2 align="left">⚡Activity Graph:</h2>
 
