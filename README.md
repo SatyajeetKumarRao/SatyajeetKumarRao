@@ -109,9 +109,10 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <div align="center">
 
-![Screenshot-2026-02-01-at-10-48-54-AM](https://github.com/user-attachments/assets/ba559154-113f-44a9-af90-25c8ed07a092)
+![Screenshot-2026-02-01-at-10-48-54-AM-2 (1)](https://github.com/user-attachments/assets/1b1de54a-99e1-49ac-80c5-26afbe9a384b)
 ![Screenshot-2026-02-01-at-10-48-54-AM-1](https://github.com/user-attachments/assets/842f8a73-7df2-42be-9bf2-4e7c261d77fc)
-![Screenshot-2026-02-01-at-10-48-54-AM-2](https://github.com/user-attachments/assets/55e570e6-3c5f-473c-9acb-f26775e37627)
+![Screenshot-2026-02-01-at-10-48-54-AM](https://github.com/user-attachments/assets/ba559154-113f-44a9-af90-25c8ed07a092)
+
 
 </div>
 
